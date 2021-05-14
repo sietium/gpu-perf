@@ -1,0 +1,8 @@
+Package: GPU-perf
+Version: 1.0.0
+Architecture: amd64
+Section: utils
+Priority: optional
+Maintainer: MC
+Homepage: http://www.sietium.com
+Description: GPU Info Check tool 

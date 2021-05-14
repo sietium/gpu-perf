@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>logos/zhaoxin.jpg</file>
+        <file>logos/versilicon.jpeg</file>
+        <file>logos/qualcomm.jpeg</file>
+        <file>logos/phytium.jpg</file>
+        <file>logos/nvidia.jpeg</file>
+        <file>logos/matrox.jpg</file>
+        <file>logos/longson.jpeg</file>
+        <file>logos/lincom.jpg</file>
+        <file>logos/JJW.png</file>
+        <file>logos/intel.jpeg</file>
+        <file>logos/imagination.jpg</file>
+        <file>logos/huawei.jpeg</file>
+        <file>logos/csic.jpeg</file>
+        <file>logos/arm.jpeg</file>
+        <file>logos/amd.jpg</file>
+        <file>logos/sietium.png</file>
+    </qresource>
+</RCC>
